@@ -21,7 +21,7 @@ const greeting = {
   username: "Alvin Tolentino",
   title: "Hi there, I'm Alvin",
   subTitle: emoji(
-    "A passionate Full Stack Developer 🚀 having experience with building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Typescript and other various libraries and frameworks"
+    "A passionate Full Stack Developer 🚀 with experience building web and mobile applications with JavaScript / Reactjs / Nodejs / Typescript and other various libraries and frameworks"
   ),
   resumeLink:
     "https://resume.creddle.io/resume/cks9moz2t4f", // Set to empty to hide the button
@@ -47,7 +47,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A bit ambitious in wanting to explore every tech stack on my path of life",
+  subTitle: "Ambitiously exploring every tech stack on my path of life",
   skills: [
     // emoji(
     //   "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -395,7 +395,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Let's talk about a project or just say hi! My Inbox is always open.",
-  number: "+1(403) 973-6855",
+  number: "+1 (403) 973-6855",
   email_address: "alvin.tol@hotmail.com"
 };
 
