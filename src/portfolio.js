@@ -264,12 +264,23 @@ const bigProjects = {
     },
     {
       image: require("./assets/images/react-redux-typescript.png"),
-      projectName: "Most Recent Creation",
+      projectName: "Newest Skills",
       projectDesc: "React based banking app. Focusing on Redux & Typescript",
       footerLink: [
         {
           name: "See Project",
           url: "https://github.com/Alvintol/react-redux-typescript"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/markdown-previewer.png"),
+      projectName: "Most Recent Creation",
+      projectDesc: "React Based README previewer clone. Focus: Redux",
+      footerLink: [
+        {
+          name: "See Project",
+          url: "https://alvintol-markdown-preview.netlify.app"
         }
       ]
     }
