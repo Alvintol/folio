@@ -33,7 +33,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Alvintol",
   linkedin: "https://www.linkedin.com/in/alvintol/",
-  gmail: "alvin.tol@hotmail.com",
+  gmail: "inbox@alvintolentino.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
   // medium: "https://medium.com/@saadpasta",
@@ -407,7 +407,7 @@ const contactInfo = {
   subtitle:
     "Let's talk about a project or just say hi! My Inbox is always open.",
   number: "+1 (403) 973-6855",
-  email_address: "alvin.tol@hotmail.com"
+  email_address: "inbox@alvintolentino.com"
 };
 
 // Twitter Section
