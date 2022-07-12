@@ -79,6 +79,10 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-bootstrap"
     },
     {
+      skillName: "Tailwind",
+      fontAwesomeClassname: "fa-solid fa-wind"
+    },
+    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js-square"
     },
@@ -230,7 +234,7 @@ To know how to get github key look at readme.md */
 
 const openSource = {
   showGithubProfile: "true", // Set true or false to show Contact profile using Github, defaults to true
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Some big projects you have worked on
@@ -263,27 +267,27 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/react-redux-typescript.png"),
+      image: require("./assets/images/drum-machine.png"),
       projectName: "Newest Skills",
-      projectDesc: "React based banking app. Focusing on Redux & Typescript",
+      projectDesc: "React based drum machine",
       footerLink: [
         {
-          name: "See Project",
-          url: "https://github.com/Alvintol/react-redux-typescript"
+          name: "Test to play!",
+          url: "https://atolentino-drum-machine.netlify.app/"
         }
       ]
     },
-    {
-      image: require("./assets/images/markdown-previewer.png"),
-      projectName: "Most Recent Creation",
-      projectDesc: "React Based README previewer clone. Focus: Redux",
-      footerLink: [
-        {
-          name: "See Project",
-          url: "https://alvintol-markdown-preview.netlify.app"
-        }
-      ]
-    }
+    // {
+    //   image: require("./assets/images/markdown-previewer.png"),
+    //   projectName: "Most Recent Creation",
+    //   projectDesc: "React Based README previewer clone. Focus: Redux",
+    //   footerLink: [
+    //     {
+    //       name: "See Project",
+    //       url: "https://alvintol-markdown-preview.netlify.app"
+    //     }
+    //   ]
+    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -407,7 +411,8 @@ const contactInfo = {
   subtitle:
     "Let's talk about a project or just say hi! My Inbox is always open.",
   number: "+1 (403) 973-6855",
-  email_address: "inbox@alvintolentino.com"
+  email_address: "inbox@alvintolentino.com",
+
 };
 
 // Twitter Section

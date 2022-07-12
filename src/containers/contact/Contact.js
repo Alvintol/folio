@@ -15,7 +15,7 @@ export default function Contact() {
         <div className="contact-div-main">
           <div className="contact-header">
             <h1 className="heading contact-title">{contactInfo.title}</h1>
-            <p
+            {/* <p
               className={
                 isDark
                   ? "dark-mode contact-subtitle"
@@ -23,7 +23,7 @@ export default function Contact() {
               }
             >
               {contactInfo.subtitle}
-            </p>
+            </p> */}
             <div
               className={
                 isDark ? "dark-mode contact-text-div" : "contact-text-div"
@@ -49,7 +49,7 @@ export default function Contact() {
               </a>
               <br />
               <br />
-              <SocialMedia />
+              {/* <SocialMedia /> */}
             </div>
           </div>
           <div className="contact-image-div">

@@ -43,6 +43,7 @@ export default function Profile() {
   ) {
     return (
       <Suspense fallback={renderLoader()}>
+        <Contact />
         <GithubProfileCard prof={prof} key={prof.id} />
       </Suspense>
     );
