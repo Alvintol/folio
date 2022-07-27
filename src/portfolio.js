@@ -269,7 +269,7 @@ const bigProjects = {
     {
       image: require("./assets/images/drum-machine.png"),
       projectName: "Newest Skills",
-      projectDesc: "React based drum machine",
+      projectDesc: "React based drum machine using Tailwind",
       footerLink: [
         {
           name: "Test to play!",
@@ -277,17 +277,17 @@ const bigProjects = {
         }
       ]
     },
-    // {
-    //   image: require("./assets/images/markdown-previewer.png"),
-    //   projectName: "Most Recent Creation",
-    //   projectDesc: "React Based README previewer clone. Focus: Redux",
-    //   footerLink: [
-    //     {
-    //       name: "See Project",
-    //       url: "https://alvintol-markdown-preview.netlify.app"
-    //     }
-    //   ]
-    // }
+    {
+      image: require("./assets/images/Calculator.png"),
+      projectName: "Most Recent Creation",
+      projectDesc: "React Based Calculator",
+      footerLink: [
+        {
+          name: "Try it out!",
+          url: "https://atolentino-calculator.netlify.app/"
+        }
+      ]
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
