@@ -267,24 +267,24 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/drum-machine.png"),
+      image: require("./assets/images/Calculator.png"),
       projectName: "Newest Skills",
-      projectDesc: "React based drum machine using Tailwind",
+      projectDesc: "Built a Calculator using React",
       footerLink: [
         {
           name: "Test to play!",
-          url: "https://atolentino-drum-machine.netlify.app/"
+          url: "http://calculator.alvintolentino.com"
         }
       ]
     },
     {
-      image: require("./assets/images/Calculator.png"),
+      image: require("./assets/images/Pomodoro.png"),
       projectName: "Most Recent Creation",
-      projectDesc: "React Based Calculator",
+      projectDesc: "Cloned a Pomodoro Timer",
       footerLink: [
         {
           name: "Try it out!",
-          url: "https://atolentino-calculator.netlify.app/"
+          url: "http://pomodoro-clone.alvintolentino.com"
         }
       ]
     }
