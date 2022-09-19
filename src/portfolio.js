@@ -63,6 +63,18 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
+      skillName: "JavaScript",
+      fontAwesomeClassname: "fab fa-js-square"
+    },
+    {
+      skillName: "Ruby",
+      fontAwesomeClassname: "fa-solid fa-gem"
+    },
+    {
+      skillName: "Python",
+      fontAwesomeClassname: "fab fa-python"
+    },
+    {
       skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
@@ -75,20 +87,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-sass"
     },
     {
-      skillName: "Bootstrap 5",
+      skillName: "Bootstrap",
       fontAwesomeClassname: "fab fa-bootstrap"
     },
     {
       skillName: "Tailwind",
       fontAwesomeClassname: "fa-solid fa-wind"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js-square"
-    },
-    {
-      skillName: "Ruby",
-      fontAwesomeClassname: "fa-solid fa-gem"
     },
     {
       skillName: "Rails",
@@ -99,12 +103,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "Redux",
-      fontAwesomeClassname: "fa-solid fa-atom"
+      skillName: "Angular",
+      fontAwesomeClassname: "fa-brands fa-angular"
     },
     {
       skillName: "Typescript",
       fontAwesomeClassname: "fa-regular fa-keyboard"
+    },
+    {
+      skillName: "Redux",
+      fontAwesomeClassname: "fa-solid fa-atom"
     },
     {
       skillName: "jQuery",
@@ -119,11 +127,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "Axios",
-      fontAwesomeClassname: "fa-solid fa-arrow-right-arrow-left"
-    },
-    {
-      skillName: "npm",
+      skillName: "Npm",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
@@ -131,13 +135,17 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fa-brands fa-node-js"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL",
       fontAwesomeClassname: "fas fa-database"
     },
     {
       skillName: "MongoDB",
       fontAwesomeClassname: "fa-solid fa-leaf"
     },
+    {
+      skillName: "Docker",
+      fontAwesomeClassname: "fab fa-docker"
+    }
     // {
     //   skillName: "swift",
     //   fontAwesomeClassname: "fab fa-swift"
@@ -150,14 +158,6 @@ https://fontawesome.com/icons?d=gallery */
     //   skillName: "firebase",
     //   fontAwesomeClassname: "fas fa-fire"
     // },
-    // {
-    //   skillName: "python",
-    //   fontAwesomeClassname: "fab fa-python"
-    // },
-    // {
-    //   skillName: "docker",
-    //   fontAwesomeClassname: "fab fa-docker"
-    // }
   ],
   display: true // Set false to hide this section, defaults to true
 };
