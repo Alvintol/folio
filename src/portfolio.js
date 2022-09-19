@@ -256,13 +256,13 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/Calculator.png"),
+      image: require("./assets/images/rates.png"),
       projectName: "Newest Skills",
-      projectDesc: "Built a Calculator using React",
+      projectDesc: "Built a csv generator pulling historical mortgage rates with Python",
       footerLink: [
         {
-          name: "Test to play!",
-          url: "http://calculator.alvintolentino.com"
+          name: "Check it out!",
+          url: "https://github.com/Alvintol/historical-mortgage-rates"
         }
       ]
     },
