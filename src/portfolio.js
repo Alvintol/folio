@@ -172,8 +172,13 @@ const educationInfo = {
       logo: require("./assets/images/lighthouse-labs-logo.jpeg"),
       subHeader: "Web Development Diploma",
       duration: "May 2022",
-      desc: '',
-      descBullets: [
+      desc: "Web Development Flex Program\n- Applications Development: Code deployments and hosting; UX/UI; Modern languages, frameworks, libraries; Focus on peer collaboration and pair programming\n- Computer Science: Algorithm design; Data structures and trees; Recursion and automation; Object-oriented programming\n- Software Engineering: Test-driven development; Critical analysis and evaluation of software; Source code version control and organization; Modularity and testability.\nSkill Stack:",
+      descBullets: ['Javascript',
+      'HTML/CSS',
+      'Node.js',
+      'React JS',
+      'Ruby on Rails',
+      'SQL and Relational Databases'
       ]
     }
   ]
